@@ -1,2 +1,1 @@
-
-    <h1>Hello, world! from bootstrap</h1>
+<h1>Hello, <?= $name;?> </h1>
